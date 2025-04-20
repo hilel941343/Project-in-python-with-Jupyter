@@ -1,4 +1,4 @@
-📊 Data Analysis and Visualization Project
+# 📊 Data Analysis and Visualization Project
 During my academic studies, I developed a project using Python and Jupyter Notebook, focusing on data analysis and visualization techniques. The project demonstrates my ability to work with built-in Python libraries for data manipulation and presentation, including:
 
 NumPy for numerical operations and array handling
